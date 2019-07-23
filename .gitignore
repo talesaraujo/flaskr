@@ -16,4 +16,4 @@ dist/
 build/
 *.egg-info/
 
-set_env.sh
+set-env.sh
